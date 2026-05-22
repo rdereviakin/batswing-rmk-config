@@ -30,9 +30,9 @@ keymap = [
     ],
     [
         ["F12", "F1", "F2", "F3", "F4", "F5", "F6", "F7", "F8", "F9", "F10", "F11"],
-        ["_", "_", "_", "_", "_", "_", "LeftBracket", "RightBracket", "LSft(Kc9)", "LSft(Kc0)", "KpPlus", "Delete"],
+        ["_", "_", "_", "_", "_", "_", "LeftBracket", "RightBracket", "WM(Kc9, LShift)", "WM(Kc0, LShift)", "KpPlus", "Delete"],
         ["_", "_", "_", "_", "_", "_", "Left", "Down", "Up", "Right", "KpEqual", "_"],
-        ["_", "_", "_", "_", "_", "_", "_", "_", "LSft(LeftBracket)", "LSft(RightBracket)", "KpMinus", "_"],
+        ["_", "_", "_", "_", "_", "_", "_", "_", "WM(LeftBracket, LShift)", "WM(RightBracket, LShift)", "KpMinus", "_"],
         ["_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_"]
     ],
 ]
