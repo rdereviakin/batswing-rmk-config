@@ -25,14 +25,14 @@ keymap = [
         ["Grave", "Kc1", "Kc2", "Kc3", "Kc4", "Kc5", "Kc6", "Kc7", "Kc8", "Kc9", "Kc0", "Minus"],
         ["Tab", "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", "Backspace"],
         ["Escape", "A", "S", "D", "F", "G", "H", "J", "K", "L", "Semicolon", "Quote"],
-        ["LeftShift", "Z", "X", "C", "V", "B", "N", "M", "Comma", "Dot", "Slash", "RightShift"],
-        ["_", "LeftControl", "LeftAlt", "LGui", "Space", "MO(1)", "MO(1)", "Enter", "RGui", "RightAlt", "RightControl", "_"]
+        ["LShift", "Z", "X", "C", "V", "B", "N", "M", "KpComma", "KpDot", "KpSlash", "RShift"],
+        ["_", "LCtrl", "LAlt", "LGui", "Space", "MO(1)", "MO(1)", "Enter", "RGui", "RAlt", "RCtrl", "_"]
     ],
     [
         ["F12", "F1", "F2", "F3", "F4", "F5", "F6", "F7", "F8", "F9", "F10", "F11"],
         ["_", "_", "_", "_", "_", "_", "LeftBracket", "RightBracket", "WM(Kc9, LShift)", "WM(Kc0, LShift)", "KpPlus", "Delete"],
         ["_", "_", "_", "_", "_", "_", "Left", "Down", "Up", "Right", "KpEqual", "_"],
-        ["_", "_", "_", "_", "_", "_", "_", "_", "WM(LeftBracket, LShift)", "WM(RightBracket, LShift)", "KpMinus", "_"],
+        ["_", "_", "_", "_", "_", "_", "_", "_", "WM(LeftBracket, LShift)", "WM(RightBracket, LShift)", "Minus", "_"],
         ["_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_"]
     ],
 ]
