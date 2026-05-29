@@ -5,7 +5,7 @@ product_name = "batswing"
 vendor_id = 0x4c4b
 product_id = 0x4643
 manufacturer = "ruslan"
-board = "nice!nano_v2"
+chip = "nrf52840"
 usb_enable = true
 
 [matrix]
@@ -25,7 +25,7 @@ keymap = [
         ["Grave", "Kc1", "Kc2", "Kc3", "Kc4", "Kc5", "Kc6", "Kc7", "Kc8", "Kc9", "Kc0", "Minus"],
         ["Tab", "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", "Backspace"],
         ["Escape", "A", "S", "D", "F", "G", "H", "J", "K", "L", "Semicolon", "Quote"],
-        ["LShift", "Z", "X", "C", "V", "B", "N", "M", "KpComma", "KpDot", "KpSlash", "RShift"],
+        ["LShift", "Z", "X", "C", "V", "B", "N", "M", "Comma", "Dot", "KpSlash", "RShift"],
         ["_", "LCtrl", "LAlt", "LGui", "Space", "MO(1)", "MO(1)", "Enter", "RGui", "RAlt", "RCtrl", "_"]
     ],
     [
