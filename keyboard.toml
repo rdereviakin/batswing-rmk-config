@@ -25,7 +25,7 @@ keymap = [
         ["Grave", "Kc1", "Kc2", "Kc3", "Kc4", "Kc5", "Kc6", "Kc7", "Kc8", "Kc9", "Kc0", "Minus"],
         ["Tab", "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", "Backspace"],
         ["Escape", "A", "S", "D", "F", "G", "H", "J", "K", "L", "Semicolon", "Quote"],
-        ["LShift", "Z", "X", "C", "V", "B", "N", "M", "Comma", "Dot", "KpSlash", "RShift"],
+        ["LShift", "Z", "X", "C", "V", "B", "N", "M", "Comma", "Dot", "Slash", "RShift"],
         ["_", "LCtrl", "LAlt", "LGui", "Space", "MO(1)", "MO(1)", "Enter", "RGui", "RAlt", "RCtrl", "_"]
     ],
     [
